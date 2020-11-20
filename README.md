@@ -1,4 +1,4 @@
-# Learning Web Programming (incomplete)
+# Learning Web Programming (far from completion)
 
  Trying to learn bootstrap from scratch. Will add more pages and content when i'm free.
 
